@@ -63,7 +63,7 @@ const contactDetails = {
 
 const experiences = [
   {
-    title: "Signature Cakes",
+    title: "Signature Cookies",
     text: "Beautiful custom cakes crafted for birthdays, anniversaries, gifting and every sweet celebration.",
     image: photos.cakes,
     alt: "A delicious celebration cake with finishing details",
